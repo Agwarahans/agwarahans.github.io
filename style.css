@@ -2,8 +2,8 @@ h1 {
 color: blue;
   font-weight: 800;
 }
-body {
-  background-image: url('https://as1.ftcdn.net/v2/jpg/03/29/60/84/1000_F_329608479_vP9nFK795X8lWmoTa8DPhMgoewQ7U1lG.jpg');
-  background-size: cover;
-  background-position: center;
+.background-image {
+  background-image: url('https://t4.ftcdn.net/jpg/01/14/42/55/240_F_114425509_fU7nwEt4U2MyhNpAAsofdWX0niHS3VuZ.jpg');
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image within the container */
 }
