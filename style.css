@@ -2,7 +2,7 @@ h1 {
 color: blue;
   font-weight: 800;
 }
-.background-image {
+body {
   background-image: url('https://as1.ftcdn.net/v2/jpg/03/29/60/84/1000_F_329608479_vP9nFK795X8lWmoTa8DPhMgoewQ7U1lG.jpg');
   background-size: cover;
   background-position: center;
