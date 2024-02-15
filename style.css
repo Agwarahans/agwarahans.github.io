@@ -3,7 +3,5 @@ color: blue;
   font-weight: 800;
 }
 .background-image {
-  background-image: url('https://as2.ftcdn.net/v2/jpg/00/83/15/95/1000_F_83159570_JOI1NtD7MzEOqzTYIz3eTOhEm20HgGzp.jpg');
-  background-size: cover; /* Ensures the image covers the entire container */
-  background-position: center; /* Centers the image within the container */
+  background-image: url('https://as1.ftcdn.net/v2/jpg/03/29/60/84/1000_F_329608479_vP9nFK795X8lWmoTa8DPhMgoewQ7U1lG.jpg');
 }
