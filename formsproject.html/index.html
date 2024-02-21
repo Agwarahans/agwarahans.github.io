@@ -14,7 +14,16 @@
 	<br>
 	<label for="password">Password:</label>
 	<input type="password" id="user-password" name="user-passowrd"><br>
-	<button>Log In</button>
+	<button>Log In</button><br>
+	<label for="program">Which program would you like to enroll for</label>
+	<select id="program" name="program">
+		<option>Aerobics</option>
+		<option>Weight training</option>
+		<option>Yoga</option>
+		<option>CrossFit</option>
+		<option>Group Running</option>
+	</select>
+
 </form>
 <style>
 label {
@@ -27,7 +36,8 @@ background-color: orange;
 height:20px;
 width: 100px;
 	border-radius: 35%;
-	position: center;
+	position: relative;
+	left: 50px;
 	}
 body {
 background-color: red;
