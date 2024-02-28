@@ -1,3 +1,9 @@
 * {
 	background-color: black;
 }
+.logo, .list.li {
+	display: flex;
+}
+header {
+	position: fixed;
+}
