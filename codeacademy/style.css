@@ -2,7 +2,7 @@
 	background-color: black;
 }
 .logo, .list.li {
-	display: flex;
+	display: inline-flex;
 }
 header {
 	position: fixed;
