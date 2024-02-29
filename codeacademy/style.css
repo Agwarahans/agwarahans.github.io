@@ -6,4 +6,5 @@
 }
 header {
 	position: fixed;
+	display: inline-flex;
 }
