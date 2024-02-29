@@ -1,10 +1,7 @@
 * {
 	background-color: black;
-}
-.logo, ul li {
-	display: inline-flex;
-}
+}~
 header {
 	position: fixed;
-	display: inline-flex;
+	display: flex;
 }
