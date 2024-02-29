@@ -5,7 +5,7 @@ header {
 	position: fixed;
 	display: flex;
 }
-ul li {
+.list.order {
 	display: inline;
 	flex-direction: flex-end;
 }
