@@ -5,6 +5,3 @@ header {
 	position: fixed;
 	display: flex;
 }
-ul li {
-	justify-content: flex-end;
-}
