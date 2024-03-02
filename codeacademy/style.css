@@ -5,7 +5,7 @@ header.logo {
 	position: fixed;
 	display: flex;
 }
-header.list {
+header.order {
 	display: flex;
 	flex-direction: flex-end;
 }
