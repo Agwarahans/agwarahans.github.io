@@ -6,6 +6,6 @@ header.logo {
 	display: flex;
 }
 header.order {
-	display: flex;
+	display:inline-flex;
 	flex-direction: flex-end;
 }
