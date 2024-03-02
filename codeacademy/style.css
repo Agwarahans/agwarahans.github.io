@@ -3,5 +3,5 @@
 }
 header {
 	position: fixed;
-	display: flex;
+	display: inline-flex;
 }
