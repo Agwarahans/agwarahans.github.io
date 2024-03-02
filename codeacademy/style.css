@@ -1,11 +1,11 @@
 * {
 	background-color: black;
 }
-header {
+header.logo {
 	position: fixed;
 	display: flex;
 }
-.list.order {
-	display: inline;
+header.list {
+	display: flex;
 	flex-direction: flex-end;
 }
