@@ -1,11 +1,7 @@
 * {
 	background-color: black;
 }
-header.logo {
+header {
 	position: fixed;
 	display: flex;
-}
-header.order {
-	display:inline-flex;
-	flex-direction: flex-end;
 }
