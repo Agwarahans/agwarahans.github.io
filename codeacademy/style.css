@@ -5,3 +5,6 @@ header {
 	position: fixed;
 	display: inline-flex;
 }
+.list.order {
+	justify-content: flex-end;
+}
