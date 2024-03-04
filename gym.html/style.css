@@ -1,4 +1,7 @@
 body {
 	background-image: url('https://media.istockphoto.com/id/1346565144/photo/striving-to-achieve.jpg?s=1024x1024&w=is&k=20&c=oDp0eWUq8Qir--lI9FbCuESJoFpucKdM8_7rNde9bXk=');
+display: grid;
+grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
 }
+
 
