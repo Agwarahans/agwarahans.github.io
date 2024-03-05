@@ -3,5 +3,9 @@ body {
 display: grid;
 grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
 }
-
+.button {
+border-radius: 20px;
+margin: 0;
+background-color: green;
+}
 
