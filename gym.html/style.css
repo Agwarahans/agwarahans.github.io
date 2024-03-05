@@ -6,6 +6,11 @@ grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
 .button {
 border-radius: 20px;
 margin: 0;
-background-color: green;
+background-color: orange;
+color: black;
+height: 20px;
+width: 40px;
+position: relative;
+top: 500px;
 }
 
