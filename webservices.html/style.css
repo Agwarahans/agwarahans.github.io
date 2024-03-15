@@ -14,3 +14,8 @@ h1 {
 .interactive {
 	background-color: #A52A2A;
 }
+.header {
+	background-image: url(https://st2.depositphotos.com/1026266/6905/i/450/depositphotos_69050925-stock-photo-hand-working-with-a-cloud.jpg);
+	height: 400px;
+	background-position: center center;
+}
