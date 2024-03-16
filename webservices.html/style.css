@@ -24,3 +24,12 @@ body {
 	margin: 0;
 	background: #F7F7F7;
 }
+.web design {
+	margin: 40px auto;
+	padding: 20px 30px 40px 30px;
+	background-color: #FFF;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
+	align-self: center;
+}
