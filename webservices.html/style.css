@@ -52,3 +52,24 @@ body {
 	color: #FFF;
 	text-align: left;
 }
+h1 {
+	color: #41292C;
+	font-family: 'Covered By Your Grace', Sans-serif;
+	font-size: 100px;
+	line-height: 76px;
+	margin: 0;
+	position: relative;
+	text-align: center;
+	top: 20%;
+	color: midnightblue;
+	background-color: aqua;
+}
+h2 {
+	color:
+	font-family: #E4BB97;
+	font-size: 28px;
+	font-weight: 500px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
