@@ -7,4 +7,16 @@ body {
 		padding: 0;
 		text-align: center;
 	}
+.navigation li {
+	font-weight: 100;
+	letter-spacing: 2px;
+	padding: 20px;
+}
+
+.navigation li.logo {
+	color: 000;
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: 4px;
+}
 
