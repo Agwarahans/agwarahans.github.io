@@ -69,3 +69,47 @@ h3 {
 	font-weight: 700;
 	padding: 20px 10px;
 }
+
+p {
+	color: grey;
+	font-size: 16px;
+	line-height: 48px;
+	margin-top: 60px;
+	padding: 10px 20px;
+}
+
+.pull-quote {
+	margin: 0 auto;
+	width: 400px;
+}
+
+.byline {
+	border-bottom: 1px solid LightGrey;
+	border-top: 1px solid LightGrey;
+	color: DarkGrey;
+	font-size: 14px;
+	font-weight: 200;
+}
+.share {
+	border: 1px solid LightGrey;
+	padding: 40px 10px;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+.share a {
+	background: red;
+	border: 1px solid red;
+	border-radius: 3px;
+	color: white;
+	display: inline-block;
+	margin: 10px;
+	padding: 14px;
+	text-decoration: none;
+}
+.share a:hover {
+	background: #FFF;
+	border: 1px solid red;
+	color: red;
+}
+
