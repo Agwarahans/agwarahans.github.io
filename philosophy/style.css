@@ -20,3 +20,10 @@ body {
 	letter-spacing: 4px;
 }
 
+#banner {
+	background-image: url('https://as2.ftcdn.net/v2/jpg/06/64/67/57/1000_F_664675720_Q4xT8tdhE1saKljCf2VxYH7XRPTXBOZb.jpg');
+	background-size: cover;
+	background-position: bottom center;
+	height: 700px;
+	width: 100%;
+}
