@@ -3,6 +3,7 @@
   height: 500px;
   width: 500px;
   display: grid;
+  grid-template-columns: 100px 50% 200px;
   }
   .box {
   background-color: beige;
