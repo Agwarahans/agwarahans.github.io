@@ -2,6 +2,7 @@
   border: 2px blue solid;
   height: 500px;
   width: 500px;
+  display: grid;
   }
   .box {
   background-color: beige;
