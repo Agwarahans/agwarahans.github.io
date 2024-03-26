@@ -8,6 +8,8 @@
 }
 
 .a {
+	grid-row-start: 5;
+	grid-row-end: 7;
 }
 
 .box {
