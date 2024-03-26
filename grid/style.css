@@ -1,10 +1,9 @@
 .grid {
   border: 2px blue solid;
   height: 500px;
-  width: 500px;
+  width: 400px;
   display: grid;
-  grid-template-columns: 100px 50% 200px;
-  grid-template-rows: 40% 50% 50px;
+  grid-template: 40% 50% 50px / 100px 50% 200px;
   }
   .box {
   background-color: beige;
