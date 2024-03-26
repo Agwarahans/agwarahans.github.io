@@ -12,6 +12,7 @@ main {
   justify-items: center;
   justify-content: center;
   align-items: stretch;
+  align-content: center;
 }
 h2 {
   font-family: Poppins;
