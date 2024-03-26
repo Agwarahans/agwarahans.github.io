@@ -11,3 +11,12 @@
 grid-template-columns: 200px 400px;
 grid-template-rows: 150px 200px 600px 200px;
 }
+h1, h2 {
+  font-family: monospace;
+  text-align: center;
+}
+
+header {
+  background-color: dodgerblue;
+  grid-area: header;
+}
