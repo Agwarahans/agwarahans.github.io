@@ -12,7 +12,7 @@
 }
 .images .image-cont {
 	display: inline;
-	max-width: 30%;
-	max-height: 10%;
+	max-width: 100%;
+	max-height: 50%;
 }
 
