@@ -14,5 +14,7 @@
 	width: 33%;
 	display: inline-block;
 	overflow: hidden;
+	max-width: 100%;
+	max-height: auto;
 }
 
