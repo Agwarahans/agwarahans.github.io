@@ -6,10 +6,11 @@
   display: inline;
   text-decoration: none;
 }
-.main-container .logo {
-	width: 10%;
-	height: 5%
+.images {
+	width: 200px;
+	height: 100px;
 }
 .images .image-cont {
 	width: 33%;
 }
+
