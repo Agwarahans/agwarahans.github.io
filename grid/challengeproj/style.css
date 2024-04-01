@@ -12,5 +12,6 @@
 }
 .images .image-cont {
 	width: 33%;
+	display: inline-block;
 }
 
