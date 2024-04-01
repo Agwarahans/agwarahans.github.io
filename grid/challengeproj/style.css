@@ -1,4 +1,4 @@
-body {
+.main-container {
 	width: 500px;
 	height: 300px;
 
@@ -6,7 +6,7 @@ body {
   display: inline;
   text-decoration: none;
 }
-.logo {
+.main-container .logo {
 	width: 30%;
 	height: 10%
 }
