@@ -12,10 +12,7 @@
 }
 .images .image-cont {
 	display: block;
-	max-width: 100%;
-	max-height: auto;
-}
-.nav ul {
-	text-decoration: none;
+	max-width: 30%;
+	max-height: 10%;
 }
 
