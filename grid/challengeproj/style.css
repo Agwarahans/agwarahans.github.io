@@ -12,7 +12,6 @@
 }
 .images .image-cont {
 	display: block;
-	overflow: hidden;
 	max-width: 100%;
 	max-height: auto;
 }
