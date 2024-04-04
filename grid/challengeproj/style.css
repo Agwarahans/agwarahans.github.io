@@ -34,3 +34,7 @@ a {
 	animation: bounceIn 3s ease-in-out 750ms 2 alternate;
 	color: skyblue;
 }
+
+a:hover {
+	hover: pointer;
+}
