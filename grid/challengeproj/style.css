@@ -1,6 +1,7 @@
 .main-container {
 	width: 500px;
 	height: 300px;
+	font: Roboto, sans-serif;
 
 .nav li {
   display: inline;
