@@ -38,3 +38,6 @@ a {
 a:hover {
 	hover: pointer;
 }
+h1: hover {
+	hover: pointer;
+}
