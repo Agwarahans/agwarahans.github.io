@@ -15,10 +15,8 @@ h1 {
 
 .nav li {
 	display: inline-block;
-	 position: fixed;
  }
-
-.nav {
-	border-bottom: 2px solid #000000;
-}
+ .nav {
+	 border-bottom: 2px solid #00000;
+ }
 
