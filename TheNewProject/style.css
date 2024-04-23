@@ -16,9 +16,9 @@ h1 {
 .nav li {
 	display: inline-block;
 	 position: fixed;
-        font-size: 14px;
+ }
 
-}
 .nav {
 	border-bottom: 2px solid #000000;
 }
+
