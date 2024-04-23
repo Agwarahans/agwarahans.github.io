@@ -3,3 +3,13 @@
 	height: 200px;
 	background-position: bottom center;
 }
+
+h1 {
+	color: #ffffff;
+	font-size: 70px;
+	font-weight: 900;
+	margin: 0px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Merriweather";
+}
