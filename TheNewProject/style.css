@@ -1,15 +1,6 @@
-.header {
-	background-image:url('https://media.istockphoto.com/id/1630663973/photo/woman-hand-holding-virtual-global-internet-connection-metaverse-business-global-internet.jpg?s=1024x1024&w=is&k=20&c=l1igd68Bo-zlb-ARbIy7S-5OzEAGx-ZQGJcU3sA-uMY=');
-	height: 200px;
-	background-position: bottom center;
+* {
+	font-style: merriweather;
 }
-
-.header h1 {
-	color: #000000;
-	font-size: 70px;
-	font-weight: 900;
-	margin: 0px;
-	text-align: center;
-	font-family: "Merriweather";
+.nav li {
+	display: inline-block;
 }
-
