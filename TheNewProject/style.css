@@ -8,6 +8,9 @@ a {
 h1 {
 	color: seagreen;
 }
-header {
+header,
+nav {
 	color: #191C2D;
 }
+p {
+	color: #F2C438;
