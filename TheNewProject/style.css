@@ -4,8 +4,8 @@
 	background-position: bottom center;
 }
 
-h1 {
-	color: #ffffff;
+.header h1 {
+	color: #000000;
 	font-size: 70px;
 	font-weight: 900;
 	margin: 0px;
@@ -13,17 +13,3 @@ h1 {
 	font-family: "Merriweather";
 }
 
-.nav li {
-	display: inline-block;
-<<<<<<< HEAD
-	padding: 15px;
-=======
-	padding: 12px;
->>>>>>> 187747c6f50b8ccd73ea8eb938b8ac3d1e014bd8
- }
- .nav {
-	 border-bottom: 2px solid #000000;
- }
- .nav li: hover {
-	 color: blue;
- }
