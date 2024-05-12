@@ -4,8 +4,11 @@
 a {
 	display: inline;
 	text-decoration: none;
+	color: #007B63
 }
-h1 {
+h1,
+h3,
+h4 {
 	color: seagreen;
 }
 header {
@@ -13,3 +16,4 @@ header {
 }
 p {
 	color: #F2C438;
+}
