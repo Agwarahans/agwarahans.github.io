@@ -1,8 +1,8 @@
 * {
-	font-style: 'merriweather';
+	font-family: 'merriweather';
 }
 a {
-	display: inline-block;
+	display: inline;
 	text-decoration: none;
 }
 h1 {
