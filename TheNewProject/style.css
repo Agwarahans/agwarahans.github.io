@@ -15,7 +15,11 @@ h1 {
 
 .nav li {
 	display: inline-block;
+<<<<<<< HEAD
 	padding: 15px;
+=======
+	padding: 12px;
+>>>>>>> 187747c6f50b8ccd73ea8eb938b8ac3d1e014bd8
  }
  .nav {
 	 border-bottom: 2px solid #000000;
