@@ -1,6 +1,6 @@
 * {
-	font-style: merriweather;
+	font-style: 'merriweather';
 }
-.nav li {
+.header .nav li {
 	display: inline-block;
 }
