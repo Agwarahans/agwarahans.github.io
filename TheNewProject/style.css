@@ -1,8 +1,9 @@
 * {
 	font-style: 'merriweather';
 }
-.header .nav li {
+a {
 	display: inline-block;
+	text-decoration: none;
 }
 h1 {
 	color: seagreen;
