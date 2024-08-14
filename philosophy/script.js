@@ -1,7 +1,8 @@
-let element = document.querySelector('button);
-  function turnBlue (){
-	  element.style.backgroundColor = 'blue';
+let element = document.querySelector('button');
 
-  }
-
-element.onclick = turnBlue;
+function turnButtonRed(){
+  element.style.backgroundColor = 'red';
+element.style.color = 'white';
+element.innerHTML = 'Red Button'
+}
+element.onclick = turnButtonRed;
