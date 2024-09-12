@@ -88,3 +88,6 @@ footer p {
     font-size: 1rem;
     color: #7f8c8d;
 }
+ul {
+	list-style-type: none;
+}
